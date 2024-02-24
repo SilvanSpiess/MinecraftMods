@@ -1,0 +1,13 @@
+filename = 'collective-1.20.4-7.30.jar'
+name = 'Collective'
+side = 'both'
+
+[download]
+hash = '9345cca2ea1a2b93b6f3a69750f6be9afb4e1f33e1b15bcde8b81e77020c0c58b1ce40955ce5a84e94bf9f2c4a22befab7c2d3cd137a8b6c7a41666afc3573db'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/e0M1UDsY/versions/Avo0Ze46/collective-1.20.4-7.30.jar'
+
+[update.modrinth]
+mod-id = 'e0M1UDsY'
+version = 'Avo0Ze46'

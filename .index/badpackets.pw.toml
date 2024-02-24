@@ -1,0 +1,13 @@
+filename = 'badpackets-fabric-0.5.4.jar'
+name = 'Bad Packets'
+side = 'both'
+
+[download]
+hash = '54f1c57680e2f8b1a1095bbff1a99ef385af7a6d2d0025d86934885a722bc4cf1174a19f94d54ec1f018873d74fde4f29a02e0f5f0c47710309c13241a01ae5d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/ftdbN0KK/versions/SvSHT7FN/badpackets-fabric-0.5.4.jar'
+
+[update.modrinth]
+mod-id = 'ftdbN0KK'
+version = 'SvSHT7FN'

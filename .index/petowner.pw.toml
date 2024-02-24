@@ -1,0 +1,13 @@
+filename = 'PetOwner-1.8.6-1.20.2+.jar'
+name = 'Pet Owner'
+side = 'both'
+
+[download]
+hash = 'ffc0f02868e802106241f77d5502665067be2fb25f519c3084c92dd993164b887a309a950aec5fd6dd918fdc76ceb6242b9145d79f0dce570abc3c12c17bd0ff'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/IxUlAAFe/versions/FgfJC2uc/PetOwner-1.8.6-1.20.2%2B.jar'
+
+[update.modrinth]
+mod-id = 'IxUlAAFe'
+version = 'FgfJC2uc'
